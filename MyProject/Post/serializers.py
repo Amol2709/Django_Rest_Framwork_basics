@@ -12,3 +12,7 @@ class PostSerializer(serializers.ModelSerializer):
             'publish_date',
             'last_updated'
         )
+
+
+
+
